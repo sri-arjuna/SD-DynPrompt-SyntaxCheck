@@ -8,9 +8,9 @@ This is for you!
 This checks for matching:
 * ``{}``
 * ``__``
-* And verifies that ``{{x-y$$ <sep> $$<strings>}}`` has double-rbaces!
+* And verifies that ``{{x-y$$ <sep> $$<strings>}}`` has double-braces!
 
-Just place this script in your wildcard root directory and let it run.
+Just place this script in your projects root directory and let it run.
 
 It'll report any mismatch with filename and line number!
 
